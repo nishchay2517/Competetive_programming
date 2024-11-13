@@ -162,8 +162,6 @@
     "DSU_Rank": {
     "prefix": "DSU_Rank",
     "body": [
-        "#include <vector>",
-        "using namespace std;",
         "",
         "class DSU {",
         "private:",
@@ -209,8 +207,6 @@
 }, "DSU_size": {
     "prefix": "DSU_size",
     "body": [
-        "#include <vector>",
-        "using namespace std;",
         "",
         "class DSU {",
         "private:",
